@@ -1,0 +1,32 @@
+project:
+  name: "Media-Analysis"
+  version: "1.0.0"
+
+time_windows:
+  W1:
+    name: "Pre-Conflict Baseline"
+    start_date: "2023-04-01"
+    end_date: "2023-10-06"
+  W2:
+    name: "Conflict Outbreak"
+    start_date: "2023-10-07"
+    end_date: "2024-04-16"
+  W3:
+    name: "Campus Encampments Peak"
+    start_date: "2024-04-17"
+    end_date: "2024-05-15"
+  W4:
+    name: "Post-Encampment Aftermath"
+    start_date: "2024-05-16"
+    end_date: "2024-11-30"
+  W5:
+    name: "Long-Term Dynamics"
+    start_date: "2024-12-01"
+    end_date: "2025-05-31"
+
+models:
+  embedding_model: "sentence-transformers/all-mpnet-base-v2"
+  lda:
+    num_topics: 5
+    max_features: 1000
+    random_state: 42
