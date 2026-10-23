@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nytimes.com/2023/12/21/world/middleeast/israel-gaza-bomb-investigation.html",
+  "canonical_url": "https://www.nytimes.com/2023/12/21/world/middleeast/israel-gaza-bomb-investigation.html",
+  "outlet": "New York Times",
+  "title": "",
+  "date": "",
+  "published_at": "",
+  "updated_at": "",
+  "retrieved_at": "2026-10-23T04:35:19.015206+00:00",
+  "content": "",
+  "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "extraction_method": "none",
+  "extraction_status": "failed",
+  "extraction_reasons": "[\"empty_html\", \"fetch_error:HTTPError\"]",
+  "final_url": "",
+  "selection_group": "~3-6 months before concentrated protests",
+  "manifest_line": 11,
+  "article_id": "A005"
+}

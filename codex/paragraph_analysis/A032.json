@@ -1,0 +1,19 @@
+{
+  "url": "https://www.washingtonpost.com/education/2024/08/30/dc-area-colleges-fall-demonstrations/",
+  "canonical_url": "https://www.washingtonpost.com/education/2024/08/30/dc-area-colleges-fall-demonstrations/",
+  "outlet": "Washington Post",
+  "title": "",
+  "date": "",
+  "published_at": "",
+  "updated_at": "",
+  "retrieved_at": "2026-10-23T04:39:03.907308+00:00",
+  "content": "",
+  "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "extraction_method": "none",
+  "extraction_status": "failed",
+  "extraction_reasons": "[\"empty_html\", \"fetch_error:ReadTimeout\"]",
+  "final_url": "",
+  "selection_group": "~3-6 months after concentrated protests",
+  "manifest_line": 53,
+  "article_id": "A032"
+}

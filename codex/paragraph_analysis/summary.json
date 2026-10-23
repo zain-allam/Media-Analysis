@@ -1,0 +1,38 @@
+{
+  "articles_requested": 78,
+  "articles_classified": 30,
+  "articles_not_classified": 48,
+  "extraction_statuses": {
+    "failed": 41,
+    "success": 33,
+    "needs_review": 4
+  },
+  "sentences_reviewed": 984,
+  "retained_sentences": 6,
+  "category_counts": {
+    "neither": 975,
+    "Palestine": 3,
+    "Israel": 3,
+    "both": 3
+  },
+  "retained_by_outlet": {
+    "Fox News": 3,
+    "CBS News": 3
+  },
+  "movement_related_candidates_excluded": 28,
+  "by_scope": {
+    "Palestinian actor": 3,
+    "Israeli actor": 3
+  },
+  "method": "Assistant contextual LLM review; no trained classifier, no measured accuracy or calibrated confidence.",
+  "unit": "sentence, interpreted with the original paragraph/article context",
+  "rules": [
+    "Retain narrator evaluations/interpretive framing of exactly one side.",
+    "Exclude factual reporting and attributed/quoted opinions without narrator evaluation.",
+    "Exclude both and neither from retained files; preserve decisions in the audit.",
+    "Palestine covers Palestinian actors; evaluations of U.S. solidarity/protest movements are excluded from direct party groups and saved separately.",
+    "Israel covers Israeli actors/policies; Jewish identity alone does not imply an Israeli political position.",
+    "Narrative framing is not evidence of the author's personal beliefs. Loaded terms and analytical descriptions require interpretive review.",
+    "No equal category sizes were imposed. These outputs are candidate annotations, not a validated bias score."
+  ]
+}

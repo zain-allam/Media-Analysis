@@ -1,0 +1,19 @@
+{
+  "url": "https://www.washingtonpost.com/education/2024/04/23/college-student-antiwar-protests-israel-palestine/",
+  "canonical_url": "https://www.washingtonpost.com/education/2024/04/23/college-student-antiwar-protests-israel-palestine/",
+  "outlet": "Washington Post",
+  "title": "",
+  "date": "",
+  "published_at": "",
+  "updated_at": "",
+  "retrieved_at": "2026-10-23T04:38:06.526526+00:00",
+  "content": "",
+  "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "extraction_method": "none",
+  "extraction_status": "failed",
+  "extraction_reasons": "[\"empty_html\", \"fetch_error:ReadTimeout\"]",
+  "final_url": "",
+  "selection_group": "During concentrated protests",
+  "manifest_line": 48,
+  "article_id": "A029"
+}

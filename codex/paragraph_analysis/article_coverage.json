@@ -1,0 +1,1149 @@
+[
+  {
+    "article_id": "A001",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2023/04/08/world/middleeast/rockets-lebanon-hamas-hezbollah-israel.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A002",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2023/06/14/world/asia/china-mahmoud-abbas-xi-jinping.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A003",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2023/09/07/world/middleeast/mahmoud-abbas-video-antisemitic.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A004",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2023/10/03/world/middleeast/israeli-herders-west-bank.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A005",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2023/12/21/world/middleeast/israel-gaza-bomb-investigation.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A006",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2024/01/27/world/middleeast/gaza-war-israel-hamas-negotiations.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A007",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2024/04/30/us/politics/biden-israel-college-protest.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A008",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2024/05/01/opinion/student-protests-gaza.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A009",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2024/04/30/nyregion/antisemitism-republicans-johnson-college-protests.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A010",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2024/05/01/nyregion/columbia-university-protests-arrests.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A011",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2024/09/07/world/middleeast/american-slain-west-bank-eygi.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A012",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2024/09/19/world/middleeast/saudi-israel-relations.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A013",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2024/10/20/opinion/hamas-colleges-free-speech.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A014",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2024/11/07/opinion/democrats-israel-gaza-war.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A015",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2024/11/25/arts/design/nan-goldin-germany-gaza.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A016",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2025/04/15/world/middleeast/gaza-medics-autopsies-israel.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A017",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2025/04/25/us/politics/trump-student-visa-cancellations.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A018",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2025/05/18/us/project-esther-heritage-foundation-palestine.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A019",
+    "outlet": "New York Times",
+    "url": "https://www.nytimes.com/2025/04/01/us/israel-gaza-student-protests-canary-mission.html",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:HTTPError"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A020",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/world/2023/05/11/palestinian-islamic-jihad-gaza-israel/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A021",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/world/2023/09/21/gaza-israel-hamas-palestinians-conflict/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A022",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/world/2023/02/22/israel-palestinian-violence-timeline/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A023",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/world/2024/01/01/israel-hamas-war-gaza-news-palestine/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A024",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/world/2023/11/08/israel-war-news-hamas-gaza-palestine/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A025",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/dc-md-va/2024/01/13/march-for-gaza-dc-rally-israel-hamas-war/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A026",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/nation/2024/01/24/columbia-palestinian-gaza-israel-campus/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A027",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2024/03/18/biden-democrats-protesters-gaza/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A028",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/education/2024/04/18/columbia-student-gaza-protests-nypd/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A029",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/education/2024/04/23/college-student-antiwar-protests-israel-palestine/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A030",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/education/2024/04/23/map-student-protests-arrests-universities-us/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A031",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/education/2024/04/23/protests-american-university-israel-gaza-college-campus/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A032",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/education/2024/08/30/dc-area-colleges-fall-demonstrations/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A033",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/education/2024/09/12/new-college-protest-rules/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A034",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/education/2024/10/07/israel-gaza-college-protests-october-7-attacks/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A035",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/education/2024/09/04/columbia-university-israel-gaza-student-protests/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A036",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/education/2025/04/24/ice-arrest-mahmoud-khalil-no-warrant/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A037",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/education/2025/05/07/columbia-university-library-gaza-protest/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A038",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/education/2025/05/28/mahmoud-khalil-detention-unconstitutional/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A039",
+    "outlet": "Washington Post",
+    "url": "https://www.washingtonpost.com/immigration/2025/04/22/mahmoud-khalil-columbia-palestinian-activist-son-birth/",
+    "title": "",
+    "date": "",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "empty_html",
+      "fetch_error:ReadTimeout"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A040",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/world/israel-deploys-thousands-troops-drones-attack-jenin-stronghold-terrorism-hotspot",
+    "title": "Israel deploys thousands of troops, drones in attack on Jenin stronghold in terrorism 'hotspot'",
+    "date": "2023-07-03",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 17,
+    "Palestine_count": 1,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A041",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/world/israel-completes-withdrawal-jenin-exchange-rockets-airstrikes",
+    "title": "Israel completes withdrawal from Jenin amid exchange of rockets, airstrikes",
+    "date": "2023-07-05",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 11,
+    "Palestine_count": 1,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A042",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/world/6-palestinians-killed-latest-clash-against-israel-west-bank-gaza-strip",
+    "title": "6 Palestinians killed in latest clash against Israel in West Bank, Gaza Strip",
+    "date": "2023-09-20",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 31,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A043",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/world/israeli-airstrikes-target-gaza-ongoing-protests-no-casualties-reported",
+    "title": "Israeli airstrikes target Gaza amid ongoing protests, no casualties reported",
+    "date": "2023-09-26",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 19,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A044",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/us/columbia-student-protesters-stage-walkout-hillary-clintons-class",
+    "title": "Columbia student protesters stage walkout from Hillary Clinton’s class",
+    "date": "2023-11-02",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 17,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A045",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/politics/nyc-columbia-university-faculty-students-protest-suspension-far-left-groups",
+    "title": "NYC Columbia University faculty and students protest suspension of 2 far-left groups",
+    "date": "2023-11-15",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 17,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A046",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/politics/anti-israel-protesters-clash-nypd-officers-fiery-scuffle-led-arrests-nypd-burn-hell",
+    "title": "Anti-Israel protesters clash with NYPD officers in fiery scuffle that led to arrests: 'NYPD, burn in hell'",
+    "date": "2024-02-03",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 22,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A047",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/politics/columbia-suspends-students-anti-israel-event-featuring-speaker-linked-terrorist-organization",
+    "title": "Columbia suspends students over anti-Israel event featuring speaker linked to terrorist organization",
+    "date": "2024-04-09",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 25,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A048",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/us/anti-israel-agitators-light-flares-columbia-university-occupation",
+    "title": "Anti-Israel agitators light flares outside Columbia University 'occupation'",
+    "date": "2024-04-18",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 16,
+    "Palestine_count": 1,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A049",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/us/anti-israel-campus-protesters-make-demand-administrators-vow-stay-put-universities-meet",
+    "title": "Anti-Israel campus protesters make demand of administrators, vow to stay put until universities meet it",
+    "date": "2024-04-24",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 23,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A050",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/us/antisemitic-riot-columbia-agitators-take-over-academic-building-barricade-doors",
+    "title": "Antisemitic riot at Columbia reaches boiling point as agitators take over academic building, barricade doors",
+    "date": "2024-04-30",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 19,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A051",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/us/colleges-that-once-embraced-anti-israel-protests-now-changing-their-tune-encampments-grow-more-chaotic",
+    "title": "Colleges that once embraced anti-Israel protests now changing their tune as encampments grow more chaotic",
+    "date": "2024-05-07",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 34,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A052",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/us/us-colleges-revise-rules-campuses-brace-more-anti-israel-chaos",
+    "title": "US colleges revise rules as campuses brace for more anti-Israel chaos",
+    "date": "2024-08-22",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "conflicting_publication_dates",
+      "conflicting_update_dates",
+      "restricted_content"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A053",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/us/new-semester-reignites-fears-anti-israel-protests-college-campuses-were-very-concerned",
+    "title": "New semester reignites fears of anti-Israel protests on college campuses: 'We’re very concerned'",
+    "date": "2024-08-28",
+    "extraction_status": "needs_review",
+    "extraction_reasons": [
+      "conflicting_publication_dates"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A054",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/us/masked-anti-israel-protesters-columbia-university-demonstrate-students-check-first-day-classes",
+    "title": "Masked anti-Israel protesters at Columbia University demonstrate as students check in for first day of classes",
+    "date": "2024-09-03",
+    "extraction_status": "needs_review",
+    "extraction_reasons": [
+      "conflicting_update_dates"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A055",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/us/columbia-anti-israel-agitators-reach-crescendo-intimidation-school-suffers-latest-black-eye",
+    "title": "Columbia anti-Israel agitators to reach ‘crescendo of intimidation’ as school suffers latest black eye",
+    "date": "2024-09-09",
+    "extraction_status": "failed",
+    "extraction_reasons": [
+      "conflicting_publication_dates",
+      "restricted_content"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A056",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/us/columbia-university-threatens-arrest-anti-israel-protesters-remove-encampments-new-demonstrations-loom",
+    "title": "Columbia U threatens to arrest anti-Israel protesters, remove encampments as new demonstrations loom",
+    "date": "2025-04-24",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 21,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A057",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/us/anti-israel-agitators-take-over-part-columbia-university-library-during-finals-call-liberation-zone",
+    "title": "Dozens of anti-Israel agitators arrested after storming, taking over Columbia University library during finals",
+    "date": "2025-05-07",
+    "extraction_status": "needs_review",
+    "extraction_reasons": [
+      "conflicting_update_dates"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A058",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/us/mood-flips-columbia-u-after-quashing-latest-protest-trump-pressure-takes-hold",
+    "title": "Mood flips at Columbia U after quashing of latest protest, Trump pressure takes hold",
+    "date": "2025-05-14",
+    "extraction_status": "needs_review",
+    "extraction_reasons": [
+      "conflicting_publication_dates",
+      "conflicting_update_dates"
+    ],
+    "classification_status": "not_classified",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A059",
+    "outlet": "Fox News",
+    "url": "https://www.foxnews.com/us/anti-israel-protesters-torch-diplomas-outside-columbia-university-graduation-day",
+    "title": "Anti-Israel protesters torch diplomas outside Columbia University on graduation day",
+    "date": "2025-05-21",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 20,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A060",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/news/israel-west-bank-jenin-raid-palestinians-tel-aviv-car-ramming-attack/",
+    "title": "Palestinians flee Israel's raid on West Bank refugee camp as several hurt in Tel Aviv car attack",
+    "date": "2023-07-04",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 22,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A061",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/news/israel-west-bank-raid-jenin-refugee-camp-palestinians-no-water-displaced-un/",
+    "title": "Israeli raid on West Bank refugee camp cut water access for thousands, left 173 homeless, U.N. says",
+    "date": "2023-07-12",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 17,
+    "Palestine_count": 0,
+    "Israel_count": 1
+  },
+  {
+    "article_id": "A062",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/news/protesters-disrupt-senate-aid-hearing-secretary-of-state-antony-blinken-speaks/",
+    "title": "Protesters calling for cease-fire in Gaza disrupt Senate hearing over Israel aid as Secretary of State Antony Blinken speaks",
+    "date": "2023-10-31",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 27,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A063",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/news/more-than-30-palestinians-reported-killed-israeli-airstrikes-gaza-strip/",
+    "title": "Dozens killed in Israeli strikes on Gaza overnight amid fears of widening conflict",
+    "date": "2024-01-13",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 48,
+    "Palestine_count": 0,
+    "Israel_count": 1
+  },
+  {
+    "article_id": "A064",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/news/college-campuses-rattled-israel-hamas-war-60-minutes/",
+    "title": "\"It's tense. It's hostile\": Turmoil on college campuses over Israel-Hamas war",
+    "date": "2023-12-03",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 55,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A065",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/pittsburgh/news/law-enforcement-agencies-across-the-u-s-step-up-patrols-ahead-of-potential-pro-palestine-rallies/",
+    "title": "Law enforcement agencies across the U.S. step up patrols ahead of potential pro-Palestine rallies",
+    "date": "2023-10-13",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 19,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A066",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/amp/news/pro-palestinian-protests-leave-college-campuses-on-edge-coast-to-coast/",
+    "title": "Pro-Palestinian protests leave American college campuses on edge",
+    "date": "2024-04-23",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 26,
+    "Palestine_count": 0,
+    "Israel_count": 1
+  },
+  {
+    "article_id": "A067",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/amp/news/university-protests-israel-hamas-war-gaza-arrests-campus/",
+    "title": "University protests over Israel-Hamas war in Gaza lead to hundreds of arrests on college campuses",
+    "date": "2024-04-25",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 92,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A068",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/news/college-student-protesters-demonstrations-israel-hamas-war-grow/",
+    "title": "College protesters vow to keep demonstrations as schools shut down encampments amid reports of antisemitism",
+    "date": "2024-04-27",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 56,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A069",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/news/college-campus-protests-gaza-israel/",
+    "title": "Protests over Israel-Hamas war continue at college campuses across the U.S. as graduation dates approach",
+    "date": "2024-04-29",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 108,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A070",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/news/university-protests-college-campus-israel-hamas-war-police/",
+    "title": "University protests over Israel-Hamas war lead to more clashes between police and demonstrators on campuses nationwide",
+    "date": "2024-04-26",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 75,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A071",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/chicago/news/oct-7-chicago-college-protest/",
+    "title": "Chicago college students demonstrate, vigils held for Gaza on 1-year mark of Oct. 7 attack in Israel",
+    "date": "2024-10-07",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 39,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A072",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/miami/news/university-of-miami-professor-apologizes-for-violating-university-policy-after-seen-wearing-palestine-sash/",
+    "title": "University of Miami professor apologizes for violating university policy after seen wearing \"Palestine\" sash in class",
+    "date": "2024-08-23",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 12,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A073",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/texas/news/dallas-woman-two-israeli-cousins-killed-hamas-ongoing-anguish/",
+    "title": "Dallas woman whose two Israeli cousins were killed by Hamas discusses her ongoing anguish",
+    "date": "2024-10-07",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 48,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A074",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/chicago/news/students-relieved-uchicago-drops-disciplinary-cases-protest/",
+    "title": "Students relieved, but confused after UChicago drops their disciplinary cases related to protest",
+    "date": "2024-08-12",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 17,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A075",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/news/columbia-mohsen-mahdawi-trump-administration-you-will-not-silence-me/",
+    "title": "Columbia activist Mohsen Mahdawi speaks out in first network interview since detention: \"You will not silence me\"",
+    "date": "2025-05-05",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "reviewed",
+    "sentence_count_reviewed": 31,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A076",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/chicago/news/chicago-lawsuit-stopantisemitism-canary-mission-israel-gaza/",
+    "title": "CAIR-Chicago files class action lawsuit against StopAntisemitism, Canary Mission for alleged doxing campaign",
+    "date": "2026-04-13",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "excluded_by_preprocessor",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A077",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/philadelphia/news/elkins-park-synagogue-oct-7-attack-israel/",
+    "title": "2 years after attack in Israel, Elkins Park, Pennsylvania, synagogue unveils artwork honoring victims",
+    "date": "2025-10-07",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "excluded_by_preprocessor",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  },
+  {
+    "article_id": "A078",
+    "outlet": "CBS News",
+    "url": "https://www.cbsnews.com/newyork/news/hostages-released-israel-hamas-peace-plan-nyc-reaction/",
+    "title": "Jewish New Yorkers celebrate Gaza peace plan as they watch videos of hostages being released",
+    "date": "2025-10-13",
+    "extraction_status": "success",
+    "extraction_reasons": [],
+    "classification_status": "excluded_by_preprocessor",
+    "sentence_count_reviewed": 0,
+    "Palestine_count": 0,
+    "Israel_count": 0
+  }
+]

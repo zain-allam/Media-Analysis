@@ -1,0 +1,548 @@
+[
+  {
+    "url": "https://www.nytimes.com/2023/04/08/world/middleeast/rockets-lebanon-hamas-hezbollah-israel.html",
+    "outlet": "New York Times",
+    "selection_group": "~1 year before",
+    "manifest_line": 5,
+    "article_id": "A001"
+  },
+  {
+    "url": "https://www.nytimes.com/2023/06/14/world/asia/china-mahmoud-abbas-xi-jinping.html",
+    "outlet": "New York Times",
+    "selection_group": "~1 year before",
+    "manifest_line": 6,
+    "article_id": "A002"
+  },
+  {
+    "url": "https://www.nytimes.com/2023/09/07/world/middleeast/mahmoud-abbas-video-antisemitic.html",
+    "outlet": "New York Times",
+    "selection_group": "~1 year before",
+    "manifest_line": 7,
+    "article_id": "A003"
+  },
+  {
+    "url": "https://www.nytimes.com/2023/10/03/world/middleeast/israeli-herders-west-bank.html",
+    "outlet": "New York Times",
+    "selection_group": "~1 year before",
+    "manifest_line": 8,
+    "article_id": "A004"
+  },
+  {
+    "url": "https://www.nytimes.com/2023/12/21/world/middleeast/israel-gaza-bomb-investigation.html",
+    "outlet": "New York Times",
+    "selection_group": "~3-6 months before concentrated protests",
+    "manifest_line": 11,
+    "article_id": "A005"
+  },
+  {
+    "url": "https://www.nytimes.com/2024/01/27/world/middleeast/gaza-war-israel-hamas-negotiations.html",
+    "outlet": "New York Times",
+    "selection_group": "~3-6 months before concentrated protests",
+    "manifest_line": 12,
+    "article_id": "A006"
+  },
+  {
+    "url": "https://www.nytimes.com/2024/04/30/us/politics/biden-israel-college-protest.html",
+    "outlet": "New York Times",
+    "selection_group": "During college protest window",
+    "manifest_line": 15,
+    "article_id": "A007"
+  },
+  {
+    "url": "https://www.nytimes.com/2024/05/01/opinion/student-protests-gaza.html",
+    "outlet": "New York Times",
+    "selection_group": "During college protest window",
+    "manifest_line": 16,
+    "article_id": "A008"
+  },
+  {
+    "url": "https://www.nytimes.com/2024/04/30/nyregion/antisemitism-republicans-johnson-college-protests.html",
+    "outlet": "New York Times",
+    "selection_group": "During college protest window",
+    "manifest_line": 17,
+    "article_id": "A009"
+  },
+  {
+    "url": "https://www.nytimes.com/2024/05/01/nyregion/columbia-university-protests-arrests.html",
+    "outlet": "New York Times",
+    "selection_group": "During college protest window",
+    "manifest_line": 18,
+    "article_id": "A010"
+  },
+  {
+    "url": "https://www.nytimes.com/2024/09/07/world/middleeast/american-slain-west-bank-eygi.html",
+    "outlet": "New York Times",
+    "selection_group": "~3-6 months after concentrated protests",
+    "manifest_line": 21,
+    "article_id": "A011"
+  },
+  {
+    "url": "https://www.nytimes.com/2024/09/19/world/middleeast/saudi-israel-relations.html",
+    "outlet": "New York Times",
+    "selection_group": "~3-6 months after concentrated protests",
+    "manifest_line": 22,
+    "article_id": "A012"
+  },
+  {
+    "url": "https://www.nytimes.com/2024/10/20/opinion/hamas-colleges-free-speech.html",
+    "outlet": "New York Times",
+    "selection_group": "~3-6 months after concentrated protests",
+    "manifest_line": 23,
+    "article_id": "A013"
+  },
+  {
+    "url": "https://www.nytimes.com/2024/11/07/opinion/democrats-israel-gaza-war.html",
+    "outlet": "New York Times",
+    "selection_group": "~3-6 months after concentrated protests",
+    "manifest_line": 24,
+    "article_id": "A014"
+  },
+  {
+    "url": "https://www.nytimes.com/2024/11/25/arts/design/nan-goldin-germany-gaza.html",
+    "outlet": "New York Times",
+    "selection_group": "~3-6 months after concentrated protests",
+    "manifest_line": 25,
+    "article_id": "A015"
+  },
+  {
+    "url": "https://www.nytimes.com/2025/04/15/world/middleeast/gaza-medics-autopsies-israel.html",
+    "outlet": "New York Times",
+    "selection_group": "~1 year after",
+    "manifest_line": 28,
+    "article_id": "A016"
+  },
+  {
+    "url": "https://www.nytimes.com/2025/04/25/us/politics/trump-student-visa-cancellations.html",
+    "outlet": "New York Times",
+    "selection_group": "~1 year after",
+    "manifest_line": 29,
+    "article_id": "A017"
+  },
+  {
+    "url": "https://www.nytimes.com/2025/05/18/us/project-esther-heritage-foundation-palestine.html",
+    "outlet": "New York Times",
+    "selection_group": "~1 year after",
+    "manifest_line": 30,
+    "article_id": "A018"
+  },
+  {
+    "url": "https://www.nytimes.com/2025/04/01/us/israel-gaza-student-protests-canary-mission.html",
+    "outlet": "New York Times",
+    "selection_group": "~1 year after",
+    "manifest_line": 31,
+    "article_id": "A019"
+  },
+  {
+    "url": "https://www.washingtonpost.com/world/2023/05/11/palestinian-islamic-jihad-gaza-israel/",
+    "outlet": "Washington Post",
+    "selection_group": "~1 year before",
+    "manifest_line": 35,
+    "article_id": "A020"
+  },
+  {
+    "url": "https://www.washingtonpost.com/world/2023/09/21/gaza-israel-hamas-palestinians-conflict/",
+    "outlet": "Washington Post",
+    "selection_group": "~1 year before",
+    "manifest_line": 36,
+    "article_id": "A021"
+  },
+  {
+    "url": "https://www.washingtonpost.com/world/2023/02/22/israel-palestinian-violence-timeline/",
+    "outlet": "Washington Post",
+    "selection_group": "~1 year before",
+    "manifest_line": 37,
+    "article_id": "A022"
+  },
+  {
+    "url": "https://www.washingtonpost.com/world/2024/01/01/israel-hamas-war-gaza-news-palestine/",
+    "outlet": "Washington Post",
+    "selection_group": "~3-6 months before protests",
+    "manifest_line": 40,
+    "article_id": "A023"
+  },
+  {
+    "url": "https://www.washingtonpost.com/world/2023/11/08/israel-war-news-hamas-gaza-palestine/",
+    "outlet": "Washington Post",
+    "selection_group": "~3-6 months before protests",
+    "manifest_line": 41,
+    "article_id": "A024"
+  },
+  {
+    "url": "https://www.washingtonpost.com/dc-md-va/2024/01/13/march-for-gaza-dc-rally-israel-hamas-war/",
+    "outlet": "Washington Post",
+    "selection_group": "~3-6 months before protests",
+    "manifest_line": 42,
+    "article_id": "A025"
+  },
+  {
+    "url": "https://www.washingtonpost.com/nation/2024/01/24/columbia-palestinian-gaza-israel-campus/",
+    "outlet": "Washington Post",
+    "selection_group": "~3-6 months before protests",
+    "manifest_line": 43,
+    "article_id": "A026"
+  },
+  {
+    "url": "https://www.washingtonpost.com/politics/2024/03/18/biden-democrats-protesters-gaza/",
+    "outlet": "Washington Post",
+    "selection_group": "~3-6 months before protests",
+    "manifest_line": 44,
+    "article_id": "A027"
+  },
+  {
+    "url": "https://www.washingtonpost.com/education/2024/04/18/columbia-student-gaza-protests-nypd/",
+    "outlet": "Washington Post",
+    "selection_group": "During concentrated protests",
+    "manifest_line": 47,
+    "article_id": "A028"
+  },
+  {
+    "url": "https://www.washingtonpost.com/education/2024/04/23/college-student-antiwar-protests-israel-palestine/",
+    "outlet": "Washington Post",
+    "selection_group": "During concentrated protests",
+    "manifest_line": 48,
+    "article_id": "A029"
+  },
+  {
+    "url": "https://www.washingtonpost.com/education/2024/04/23/map-student-protests-arrests-universities-us/",
+    "outlet": "Washington Post",
+    "selection_group": "During concentrated protests",
+    "manifest_line": 49,
+    "article_id": "A030"
+  },
+  {
+    "url": "https://www.washingtonpost.com/education/2024/04/23/protests-american-university-israel-gaza-college-campus/",
+    "outlet": "Washington Post",
+    "selection_group": "During concentrated protests",
+    "manifest_line": 50,
+    "article_id": "A031"
+  },
+  {
+    "url": "https://www.washingtonpost.com/education/2024/08/30/dc-area-colleges-fall-demonstrations/",
+    "outlet": "Washington Post",
+    "selection_group": "~3-6 months after concentrated protests",
+    "manifest_line": 53,
+    "article_id": "A032"
+  },
+  {
+    "url": "https://www.washingtonpost.com/education/2024/09/12/new-college-protest-rules/",
+    "outlet": "Washington Post",
+    "selection_group": "~3-6 months after concentrated protests",
+    "manifest_line": 54,
+    "article_id": "A033"
+  },
+  {
+    "url": "https://www.washingtonpost.com/education/2024/10/07/israel-gaza-college-protests-october-7-attacks/",
+    "outlet": "Washington Post",
+    "selection_group": "~3-6 months after concentrated protests",
+    "manifest_line": 55,
+    "article_id": "A034"
+  },
+  {
+    "url": "https://www.washingtonpost.com/education/2024/09/04/columbia-university-israel-gaza-student-protests/",
+    "outlet": "Washington Post",
+    "selection_group": "~3-6 months after concentrated protests",
+    "manifest_line": 56,
+    "article_id": "A035"
+  },
+  {
+    "url": "https://www.washingtonpost.com/education/2025/04/24/ice-arrest-mahmoud-khalil-no-warrant/",
+    "outlet": "Washington Post",
+    "selection_group": "~1 year after",
+    "manifest_line": 59,
+    "article_id": "A036"
+  },
+  {
+    "url": "https://www.washingtonpost.com/education/2025/05/07/columbia-university-library-gaza-protest/",
+    "outlet": "Washington Post",
+    "selection_group": "~1 year after",
+    "manifest_line": 60,
+    "article_id": "A037"
+  },
+  {
+    "url": "https://www.washingtonpost.com/education/2025/05/28/mahmoud-khalil-detention-unconstitutional/",
+    "outlet": "Washington Post",
+    "selection_group": "~1 year after",
+    "manifest_line": 61,
+    "article_id": "A038"
+  },
+  {
+    "url": "https://www.washingtonpost.com/immigration/2025/04/22/mahmoud-khalil-columbia-palestinian-activist-son-birth/",
+    "outlet": "Washington Post",
+    "selection_group": "~1 year after",
+    "manifest_line": 62,
+    "article_id": "A039"
+  },
+  {
+    "url": "https://www.foxnews.com/world/israel-deploys-thousands-troops-drones-attack-jenin-stronghold-terrorism-hotspot",
+    "outlet": "Fox News",
+    "selection_group": "~1 year before",
+    "manifest_line": 66,
+    "article_id": "A040"
+  },
+  {
+    "url": "https://www.foxnews.com/world/israel-completes-withdrawal-jenin-exchange-rockets-airstrikes",
+    "outlet": "Fox News",
+    "selection_group": "~1 year before",
+    "manifest_line": 67,
+    "article_id": "A041"
+  },
+  {
+    "url": "https://www.foxnews.com/world/6-palestinians-killed-latest-clash-against-israel-west-bank-gaza-strip",
+    "outlet": "Fox News",
+    "selection_group": "~1 year before",
+    "manifest_line": 68,
+    "article_id": "A042"
+  },
+  {
+    "url": "https://www.foxnews.com/world/israeli-airstrikes-target-gaza-ongoing-protests-no-casualties-reported",
+    "outlet": "Fox News",
+    "selection_group": "~1 year before",
+    "manifest_line": 69,
+    "article_id": "A043"
+  },
+  {
+    "url": "https://www.foxnews.com/us/columbia-student-protesters-stage-walkout-hillary-clintons-class",
+    "outlet": "Fox News",
+    "selection_group": "~3-6 months before",
+    "manifest_line": 72,
+    "article_id": "A044"
+  },
+  {
+    "url": "https://www.foxnews.com/politics/nyc-columbia-university-faculty-students-protest-suspension-far-left-groups",
+    "outlet": "Fox News",
+    "selection_group": "~3-6 months before",
+    "manifest_line": 73,
+    "article_id": "A045"
+  },
+  {
+    "url": "https://www.foxnews.com/politics/anti-israel-protesters-clash-nypd-officers-fiery-scuffle-led-arrests-nypd-burn-hell",
+    "outlet": "Fox News",
+    "selection_group": "~3-6 months before",
+    "manifest_line": 74,
+    "article_id": "A046"
+  },
+  {
+    "url": "https://www.foxnews.com/politics/columbia-suspends-students-anti-israel-event-featuring-speaker-linked-terrorist-organization",
+    "outlet": "Fox News",
+    "selection_group": "~3-6 months before",
+    "manifest_line": 75,
+    "article_id": "A047"
+  },
+  {
+    "url": "https://www.foxnews.com/us/anti-israel-agitators-light-flares-columbia-university-occupation",
+    "outlet": "Fox News",
+    "selection_group": "~during concentrated protest window",
+    "manifest_line": 78,
+    "article_id": "A048"
+  },
+  {
+    "url": "https://www.foxnews.com/us/anti-israel-campus-protesters-make-demand-administrators-vow-stay-put-universities-meet",
+    "outlet": "Fox News",
+    "selection_group": "~during concentrated protest window",
+    "manifest_line": 79,
+    "article_id": "A049"
+  },
+  {
+    "url": "https://www.foxnews.com/us/antisemitic-riot-columbia-agitators-take-over-academic-building-barricade-doors",
+    "outlet": "Fox News",
+    "selection_group": "~during concentrated protest window",
+    "manifest_line": 80,
+    "article_id": "A050"
+  },
+  {
+    "url": "https://www.foxnews.com/us/colleges-that-once-embraced-anti-israel-protests-now-changing-their-tune-encampments-grow-more-chaotic",
+    "outlet": "Fox News",
+    "selection_group": "~during concentrated protest window",
+    "manifest_line": 81,
+    "article_id": "A051"
+  },
+  {
+    "url": "https://www.foxnews.com/us/us-colleges-revise-rules-campuses-brace-more-anti-israel-chaos",
+    "outlet": "Fox News",
+    "selection_group": "~3-6 months after concentrated protest window",
+    "manifest_line": 84,
+    "article_id": "A052"
+  },
+  {
+    "url": "https://www.foxnews.com/us/new-semester-reignites-fears-anti-israel-protests-college-campuses-were-very-concerned",
+    "outlet": "Fox News",
+    "selection_group": "~3-6 months after concentrated protest window",
+    "manifest_line": 85,
+    "article_id": "A053"
+  },
+  {
+    "url": "https://www.foxnews.com/us/masked-anti-israel-protesters-columbia-university-demonstrate-students-check-first-day-classes",
+    "outlet": "Fox News",
+    "selection_group": "~3-6 months after concentrated protest window",
+    "manifest_line": 86,
+    "article_id": "A054"
+  },
+  {
+    "url": "https://www.foxnews.com/us/columbia-anti-israel-agitators-reach-crescendo-intimidation-school-suffers-latest-black-eye",
+    "outlet": "Fox News",
+    "selection_group": "~3-6 months after concentrated protest window",
+    "manifest_line": 87,
+    "article_id": "A055"
+  },
+  {
+    "url": "https://www.foxnews.com/us/columbia-university-threatens-arrest-anti-israel-protesters-remove-encampments-new-demonstrations-loom",
+    "outlet": "Fox News",
+    "selection_group": "~1 year after",
+    "manifest_line": 90,
+    "article_id": "A056"
+  },
+  {
+    "url": "https://www.foxnews.com/us/anti-israel-agitators-take-over-part-columbia-university-library-during-finals-call-liberation-zone",
+    "outlet": "Fox News",
+    "selection_group": "~1 year after",
+    "manifest_line": 91,
+    "article_id": "A057"
+  },
+  {
+    "url": "https://www.foxnews.com/us/mood-flips-columbia-u-after-quashing-latest-protest-trump-pressure-takes-hold",
+    "outlet": "Fox News",
+    "selection_group": "~1 year after",
+    "manifest_line": 92,
+    "article_id": "A058"
+  },
+  {
+    "url": "https://www.foxnews.com/us/anti-israel-protesters-torch-diplomas-outside-columbia-university-graduation-day",
+    "outlet": "Fox News",
+    "selection_group": "~1 year after",
+    "manifest_line": 93,
+    "article_id": "A059"
+  },
+  {
+    "url": "https://www.cbsnews.com/news/israel-west-bank-jenin-raid-palestinians-tel-aviv-car-ramming-attack/",
+    "outlet": "CBS News",
+    "selection_group": "~1 year before",
+    "manifest_line": 97,
+    "article_id": "A060"
+  },
+  {
+    "url": "https://www.cbsnews.com/news/israel-west-bank-raid-jenin-refugee-camp-palestinians-no-water-displaced-un/",
+    "outlet": "CBS News",
+    "selection_group": "~1 year before",
+    "manifest_line": 98,
+    "article_id": "A061"
+  },
+  {
+    "url": "https://www.cbsnews.com/news/protesters-disrupt-senate-aid-hearing-secretary-of-state-antony-blinken-speaks/",
+    "outlet": "CBS News",
+    "selection_group": "~3-6 months before",
+    "manifest_line": 101,
+    "article_id": "A062"
+  },
+  {
+    "url": "https://www.cbsnews.com/news/more-than-30-palestinians-reported-killed-israeli-airstrikes-gaza-strip/",
+    "outlet": "CBS News",
+    "selection_group": "~3-6 months before",
+    "manifest_line": 102,
+    "article_id": "A063"
+  },
+  {
+    "url": "https://www.cbsnews.com/news/college-campuses-rattled-israel-hamas-war-60-minutes/",
+    "outlet": "CBS News",
+    "selection_group": "~3-6 months before",
+    "manifest_line": 103,
+    "article_id": "A064"
+  },
+  {
+    "url": "https://www.cbsnews.com/pittsburgh/news/law-enforcement-agencies-across-the-u-s-step-up-patrols-ahead-of-potential-pro-palestine-rallies/",
+    "outlet": "CBS News",
+    "selection_group": "~3-6 months before",
+    "manifest_line": 104,
+    "article_id": "A065"
+  },
+  {
+    "url": "https://www.cbsnews.com/amp/news/pro-palestinian-protests-leave-college-campuses-on-edge-coast-to-coast/",
+    "outlet": "CBS News",
+    "selection_group": "During concentrated protests",
+    "manifest_line": 107,
+    "article_id": "A066"
+  },
+  {
+    "url": "https://www.cbsnews.com/amp/news/university-protests-israel-hamas-war-gaza-arrests-campus/",
+    "outlet": "CBS News",
+    "selection_group": "During concentrated protests",
+    "manifest_line": 108,
+    "article_id": "A067"
+  },
+  {
+    "url": "https://www.cbsnews.com/news/college-student-protesters-demonstrations-israel-hamas-war-grow/",
+    "outlet": "CBS News",
+    "selection_group": "During concentrated protests",
+    "manifest_line": 109,
+    "article_id": "A068"
+  },
+  {
+    "url": "https://www.cbsnews.com/news/college-campus-protests-gaza-israel/",
+    "outlet": "CBS News",
+    "selection_group": "During concentrated protests",
+    "manifest_line": 110,
+    "article_id": "A069"
+  },
+  {
+    "url": "https://www.cbsnews.com/news/university-protests-college-campus-israel-hamas-war-police/",
+    "outlet": "CBS News",
+    "selection_group": "During concentrated protests",
+    "manifest_line": 111,
+    "article_id": "A070"
+  },
+  {
+    "url": "https://www.cbsnews.com/chicago/news/oct-7-chicago-college-protest/",
+    "outlet": "CBS News",
+    "selection_group": "~3-6 months after",
+    "manifest_line": 114,
+    "article_id": "A071"
+  },
+  {
+    "url": "https://www.cbsnews.com/miami/news/university-of-miami-professor-apologizes-for-violating-university-policy-after-seen-wearing-palestine-sash/",
+    "outlet": "CBS News",
+    "selection_group": "~3-6 months after",
+    "manifest_line": 115,
+    "article_id": "A072"
+  },
+  {
+    "url": "https://www.cbsnews.com/texas/news/dallas-woman-two-israeli-cousins-killed-hamas-ongoing-anguish/",
+    "outlet": "CBS News",
+    "selection_group": "~3-6 months after",
+    "manifest_line": 116,
+    "article_id": "A073"
+  },
+  {
+    "url": "https://www.cbsnews.com/chicago/news/students-relieved-uchicago-drops-disciplinary-cases-protest/",
+    "outlet": "CBS News",
+    "selection_group": "~3-6 months after",
+    "manifest_line": 117,
+    "article_id": "A074"
+  },
+  {
+    "url": "https://www.cbsnews.com/news/columbia-mohsen-mahdawi-trump-administration-you-will-not-silence-me/",
+    "outlet": "CBS News",
+    "selection_group": "~1 year after",
+    "manifest_line": 120,
+    "article_id": "A075"
+  },
+  {
+    "url": "https://www.cbsnews.com/chicago/news/chicago-lawsuit-stopantisemitism-canary-mission-israel-gaza/",
+    "outlet": "CBS News",
+    "selection_group": "~1 year after",
+    "manifest_line": 121,
+    "article_id": "A076"
+  },
+  {
+    "url": "https://www.cbsnews.com/philadelphia/news/elkins-park-synagogue-oct-7-attack-israel/",
+    "outlet": "CBS News",
+    "selection_group": "~1 year after",
+    "manifest_line": 122,
+    "article_id": "A077"
+  },
+  {
+    "url": "https://www.cbsnews.com/newyork/news/hostages-released-israel-hamas-peace-plan-nyc-reaction/",
+    "outlet": "CBS News",
+    "selection_group": "~1 year after",
+    "manifest_line": 123,
+    "article_id": "A078"
+  }
+]

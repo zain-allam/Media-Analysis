@@ -1,0 +1,19 @@
+{
+  "url": "https://www.washingtonpost.com/education/2025/05/07/columbia-university-library-gaza-protest/",
+  "canonical_url": "https://www.washingtonpost.com/education/2025/05/07/columbia-university-library-gaza-protest/",
+  "outlet": "Washington Post",
+  "title": "",
+  "date": "",
+  "published_at": "",
+  "updated_at": "",
+  "retrieved_at": "2026-10-23T04:40:39.843584+00:00",
+  "content": "",
+  "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "extraction_method": "none",
+  "extraction_status": "failed",
+  "extraction_reasons": "[\"empty_html\", \"fetch_error:ReadTimeout\"]",
+  "final_url": "",
+  "selection_group": "~1 year after",
+  "manifest_line": 60,
+  "article_id": "A037"
+}

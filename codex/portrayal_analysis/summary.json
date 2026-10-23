@@ -1,0 +1,41 @@
+{
+  "articles_requested": 78,
+  "articles_available": 30,
+  "articles_unavailable_or_excluded": 48,
+  "sentence_units_in_available_articles": 1094,
+  "sentences_selected": 231,
+  "by_party": {
+    "Israel": 84,
+    "Palestine": 147
+  },
+  "by_portrayal": {
+    "neutral": 111,
+    "critical": 77,
+    "favorable": 39,
+    "mixed": 4
+  },
+  "by_voice": {
+    "narration": 70,
+    "attributed": 155,
+    "mixed": 6
+  },
+  "articles_with_at_least_three_per_party": 15,
+  "articles_with_a_shortfall": 15,
+  "sentences_in_minimum_met_articles": 142,
+  "max_per_article_per_party": 5,
+  "minimum_goal_per_article_per_party": 3,
+  "unit": "Source sentence, interpreted in its original paragraph/article context",
+  "selection_method": "Contextual LLM review; purposeful sample, not random or exhaustive.",
+  "scope": "Includes explicitly pro-Palestinian/pro-Israel movements with exact targets recorded, as requested.",
+  "limitations": [
+    "The narrator/source distinction is not a personal-belief attribution.",
+    "Neutral describes absence of explicit approval/disapproval of the target, not an absence of distress or violence in the situation.",
+    "Quoting a source does not mean the author endorses the source.",
+    "A source accusation is not an independently verified fact.",
+    "A sentence can mention the other party as speaker, location, background, or recipient; the label follows its primary portrayal target. Inseparable portrayals of both sides are not selected.",
+    "Movements and armed groups are not interchangeable with civilian populations. Jewish identity alone is not treated as pro-Israel affiliation.",
+    "These labels are proposed, not independently validated; no measured accuracy or numerical confidence is claimed.",
+    "The sample and missing outlets cannot support an unbiased comparison of publisher bias.",
+    "Sentence segmentation was refined to split quoted multi-sentence passages and protect common abbreviations, so T IDs differ from the earlier author-opinion S IDs."
+  ]
+}

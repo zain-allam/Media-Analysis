@@ -1,0 +1,19 @@
+{
+  "url": "https://www.foxnews.com/us/columbia-anti-israel-agitators-reach-crescendo-intimidation-school-suffers-latest-black-eye",
+  "canonical_url": "https://www.foxnews.com/us/columbia-anti-israel-agitators-reach-crescendo-intimidation-school-suffers-latest-black-eye",
+  "outlet": "Fox News",
+  "title": "Columbia anti-Israel agitators to reach ‘crescendo of intimidation’ as school suffers latest black eye",
+  "date": "2024-09-09",
+  "published_at": "2024-09-09T04:00:55-04:00",
+  "updated_at": "2024-09-09T04:00:55-04:00",
+  "retrieved_at": "2026-10-23T04:35:47.094962+00:00",
+  "content": "",
+  "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "extraction_method": "none",
+  "extraction_status": "failed",
+  "extraction_reasons": "[\"conflicting_publication_dates\", \"restricted_content\"]",
+  "final_url": "https://www.foxnews.com/us/columbia-anti-israel-agitators-reach-crescendo-intimidation-school-suffers-latest-black-eye",
+  "selection_group": "~3-6 months after concentrated protest window",
+  "manifest_line": 87,
+  "article_id": "A055"
+}
