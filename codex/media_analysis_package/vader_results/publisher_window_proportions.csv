@@ -1,0 +1,11 @@
+publisher,window,status,articles,sentences,negative_count,neutral_count,positive_count,negative_proportion,neutral_proportion,positive_proportion
+CBS News,W1,Missing data,0,0,0,0,0,,,
+CBS News,W2,Missing data,0,0,0,0,0,,,
+CBS News,W3,Available,19,1008,473,308,227,0.46924603174603174,0.3055555555555556,0.2251984126984127
+CBS News,W4,Missing data,0,0,0,0,0,,,
+CBS News,W5,Missing data,0,0,0,0,0,,,
+Fox News,W1,Missing data,0,0,0,0,0,,,
+Fox News,W2,Missing data,0,0,0,0,0,,,
+Fox News,W3,Available,20,1039,426,423,190,0.41000962463907603,0.40712223291626565,0.18286814244465832
+Fox News,W4,Missing data,0,0,0,0,0,,,
+Fox News,W5,Missing data,0,0,0,0,0,,,

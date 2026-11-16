@@ -1,0 +1,6 @@
+Sentence labels: compound <= -0.05 negative; >= 0.05 positive; otherwise neutral.
+Discrete proportions count sentence labels; they are NOT averages of VADER neg/neu/pos scores.
+Window aggregation pools sentences, so longer articles receive greater weight.
+Distances: Jensen-Shannon, base 2, range 0 to 1. Blank cells mean missing data.
+Sentiment is not target-specific political stance or author opinion.
+Input: /Users/zainallam/Media-Analysis/data/processed/articles_cleaned.csv
